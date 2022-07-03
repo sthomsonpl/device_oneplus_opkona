@@ -60,6 +60,10 @@
         <item>"/system/framework/services.jar"</item>
         <item>"/apex/com.android.art/javalib/core-oj.jar"</item>
         <item>"/apex/com.android.art/javalib/core-libart.jar"</item>
+<<<<<<< HEAD
+=======
+        <item>"/apex/com.android.media/javalib/updatable-media.jar"</item>
+>>>>>>> 300fb45 (sm8250-common: Merge hardware/oplus and add overlays from LOS)
         <item>"/system_ext/priv-app/SystemUI/SystemUI.apk"</item>
         <item>"/system/bin/surfaceflinger"</item>
     </string-array>
@@ -93,6 +97,7 @@
     headset output is compliant to EN 60950 requirements for portable music players. -->
     <integer name="config_safe_media_volume_usb_mB">-1650</integer>
 
+<<<<<<< HEAD
     <!-- Power Management: Specifies whether to decouple the auto-suspend state of the
          device from the display on/off state.
 
@@ -118,4 +123,6 @@
          available on some devices. -->
     <bool name="config_enableHapticTextHandle">true</bool>
 
+=======
+>>>>>>> 300fb45 (sm8250-common: Merge hardware/oplus and add overlays from LOS)
 </resources>

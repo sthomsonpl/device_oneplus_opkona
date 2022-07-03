@@ -18,6 +18,7 @@
          on the headphone/microphone jack. When false use the older uevent framework. -->
     <bool name="config_useDevInputEventForAudioJack">true</bool>
 
+<<<<<<< HEAD
     <!-- Telephony qualified networks service package name to bind to by default. -->
     <string name="config_qualified_networks_service_package" translatable="false">vendor.qti.iwlan</string>
 
@@ -28,6 +29,30 @@
     <!-- IWLAN network service package name to bind to by default. If none is specified in an overlay, an
          empty string is passed in -->
     <string name="config_wlan_network_service_package" translatable="false">vendor.qti.iwlan</string>
+=======
+    <!-- Idle current for bluetooth controller. 0 by default -->
+    <integer name="config_bluetooth_idle_cur_ma">6</integer>
+
+    <!-- Operating volatage for bluetooth controller. 0 by default -->
+    <integer name="config_bluetooth_operating_voltage_mv">3700</integer>
+
+    <!-- Rx current for bluetooth controller. 0 by default-->
+    <integer name="config_bluetooth_rx_cur_ma">28</integer>
+
+    <!-- Tx current for bluetooth controller. 0 by default -->
+    <integer name="config_bluetooth_tx_cur_ma">36</integer>
+
+    <!-- Telephony qualified networks service package name to bind to by default. -->
+    <string name="config_qualified_networks_service_package">vendor.qti.iwlan</string>
+
+    <!-- IWLAN data service package name to bind to by default. If none is specified in an overlay, an
+         empty string is passed in -->
+    <string name="config_wlan_data_service_package">vendor.qti.iwlan</string>
+
+    <!-- IWLAN network service package name to bind to by default. If none is specified in an overlay, an
+         empty string is passed in -->
+    <string name="config_wlan_network_service_package">vendor.qti.iwlan</string>
+>>>>>>> 300fb45 (sm8250-common: Merge hardware/oplus and add overlays from LOS)
 
     <!-- Default files to pin via Pinner Service -->
     <string-array name="config_defaultPinnerServiceFiles">
