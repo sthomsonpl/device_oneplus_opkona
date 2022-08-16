@@ -78,6 +78,8 @@ on init
     write /sys/kernel/icnss/wpss_boot 1
     chmod 0660 /sys/fs/cgroup/memory/bg/tasks
 
+    setprop vendor.boot.project_name ${ro.boot.project_name}
+
 on post-fs
     chmod 0755 /sys/kernel/debug/tracing
 
