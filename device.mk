@@ -257,7 +257,8 @@ PRODUCT_PACKAGES += \
     init.qcom.usb.sh \
     init.target.rc \
     ueventd.oplus.rc \
-    ueventd.qcom.rc
+    ueventd.qcom.rc \
+    init_overlayfs.rc
 
 # Keymaster
 PRODUCT_PACKAGES += \
