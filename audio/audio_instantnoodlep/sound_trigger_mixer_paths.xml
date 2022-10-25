@@ -262,7 +262,7 @@
         <ctl name="VA DEC0 MUX" value="MSM_DMIC" />
         <ctl name="VA DEC1 MUX" value="MSM_DMIC" />
         <ctl name="VA DMIC MUX0" value="DMIC1" />
-        <ctl name="VA DMIC MUX1" value="DMIC3" />
+        <ctl name="VA DMIC MUX1" value="DMIC2" />
         <ctl name="VA_DEC0 Volume" value="69" />
         <ctl name="VA_DEC1 Volume" value="69" />
     </path>
@@ -276,7 +276,7 @@
         <ctl name="VA DEC0 MUX" value="MSM_DMIC" />
         <ctl name="VA DEC1 MUX" value="MSM_DMIC" />
         <ctl name="VA DMIC MUX0" value="DMIC1" />
-        <ctl name="VA DMIC MUX1" value="DMIC3" />
+        <ctl name="VA DMIC MUX1" value="DMIC2" />
         <ctl name="VA_DEC0 Volume" value="83" />
         <ctl name="VA_DEC1 Volume" value="83" />
     </path>

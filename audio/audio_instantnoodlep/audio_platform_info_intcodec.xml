@@ -118,11 +118,11 @@
         <param key="hifi_filter" value="false"/>
         <param key="native_audio_mode" value="multiple_mix_dsp"/>
         <param key="hfp_pcm_dev_id" value="39"/>
-        <param key="input_mic_max_count" value="2"/>
+        <param key="input_mic_max_count" value="3"/>
         <!--#Jianfeng.Qiu@PSW.MM.AudioDriver.HAL, 2019/08/22, Add for oppo config-->
-        <param key="oplus_mic_count" value="2"/>
+        <param key="oplus_mic_count" value="3"/>
         <param key="oplus_speaker_id" value="2"/>
-        <param key="oplus_multi_record" value="false"/>
+        <param key="fluence_dual_mic" value="true"/>
         <param key="SPK_VI_HOSTLESS" value="Tertiary MI2S_TX Hostless Capture"/>
         <param key="PHONE_MIC_LOOPBACK" value="TX3_CDC_DMA Hostless"/>
         <param key="HEADSET_MIC_LOOPBACK" value="TX4_CDC_DMA Hostless"/>
@@ -137,10 +137,6 @@
         <param key="use_audiovoice_scence" value="false"/>
         <!--Jie.Du@MULTIMEDIA.AUDIODRIVER.HAL, 2021/01/20, add for audioscence v2-->
         <param key="use_audiovoice_scence_v2" value="true"/>
-        <!--Run.Zhang@MULTIMEDIA.AUDIODRIVER.FEATURE, 2021/04/09 , Add for headphone volume match to impedance -->
-        <param key="enable_hp_impedance_match" value="true"/>
-        <param key="hp_impedance_match_threshold" value="50"/>
-        <!--Run.Zhang@MULTIMEDIA.AUDIODRIVER.FEATURE, 2021/04/09 , Add for headphone volume match to impedance end-->
     </config_params>
     <gain_db_to_level_mapping>
         <gain_level_map db="-59" level="5"/>
@@ -193,7 +189,7 @@
         <device name="SND_DEVICE_OUT_VOICE_HEADPHONES" acdb_id="10"/>
         <device name="SND_DEVICE_OUT_VOICE_HEADSET" acdb_id="10"/>
         <device name="SND_DEVICE_IN_HEADSET_MIC" acdb_id="23"/>
-        <device name="SND_DEVICE_IN_CAMCORDER_MIC" acdb_id="145"/>
+        <device name="SND_DEVICE_IN_CAMCORDER_MIC" acdb_id="46"/>
         <device name="SND_DEVICE_IN_HANDSET_MIC" acdb_id="34"/>
         <!--#Jianfeng.Qiu@PSW.MM.AudioDriver.HAL, 2017/09/22, Add for oppo config end-->
         <!--#ifdef OPLUS_ARCH_EXTENDS-->

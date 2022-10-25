@@ -137,10 +137,6 @@
         <param key="use_audiovoice_scence" value="false"/>
         <!--Jie.Du@MULTIMEDIA.AUDIODRIVER.HAL, 2021/01/20, add for audioscence v2-->
         <param key="use_audiovoice_scence_v2" value="true"/>
-        <!--Run.Zhang@MULTIMEDIA.AUDIODRIVER.FEATURE, 2021/04/09 , Add for headphone volume match to impedance -->
-        <param key="enable_hp_impedance_match" value="true"/>
-        <param key="hp_impedance_match_threshold" value="50"/>
-        <!--Run.Zhang@MULTIMEDIA.AUDIODRIVER.FEATURE, 2021/04/09 , Add for headphone volume match to impedance end-->
     </config_params>
     <gain_db_to_level_mapping>
         <gain_level_map db="-59" level="5"/>

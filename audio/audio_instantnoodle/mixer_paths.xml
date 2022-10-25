@@ -286,7 +286,7 @@
     <!-- Multimode Voice2 end-->
 
     <!-- Voice external ec. reference -->
-    <!-- <ctl name="VOC_EXT_EC MUX" value="NONE" /> -->
+   <!-- <ctl name="VOC_EXT_EC MUX" value="NONE" /> -->
     <ctl name="AIF3_CAP Mixer SLIM TX1" value="0" />
     <ctl name="AIF3_CAP Mixer SLIM TX2" value="0" />
     <!-- Voice external ec. reference end -->
@@ -2771,17 +2771,16 @@
         <path name="dmic3" />
     </path>
     -->
-
-    <path name="sva-re-mic">
-        <path name="dmic2" />
-        <ctl name="TX_DEC2 Volume" value="106" />
-    </path>
-
     <path name="handset-mic">
         <ctl name="TX DEC0 MUX" value="MSM_DMIC" />
         <ctl name="TX DMIC MUX0" value="DMIC1" />
         <ctl name="TX_CDC_DMA_TX_3 Channels" value="One" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
+    </path>
+
+    <path name="sva-re-mic">
+        <path name="dmic2" />
+        <ctl name="TX_DEC2 Volume" value="106" />
     </path>
 
     <path name="handset-mic-qrd">
@@ -2850,18 +2849,6 @@
         <ctl name="ANC SPKR PA Enable Switch" value="1" />
         <ctl name="SpkrLeft WSA PA Gain" value="G_6_DB" />
     </path>
-
-    <!--Run.Zhang@MULTIMEDIA.AUDIODRIVER.FEATURE, 2021/04/09 , Add for headphone volume match to impedance -->
-    <path name="headphones-low-gain">
-        <ctl name="RX_RX0 Digital Volume" value="79" />
-        <ctl name="RX_RX1 Digital Volume" value="79" />
-    </path>
-
-    <path name="headphones-high-gain">
-        <ctl name="RX_RX0 Digital Volume" value="83" />
-        <ctl name="RX_RX1 Digital Volume" value="83" />
-    </path>
-    <!--Run.Zhang@MULTIMEDIA.AUDIODRIVER.FEATURE, 2021/04/09 , Add for headphone volume match to impedance end-->
 
     <path name="headphones">
         <ctl name="RX_HPH_PWR_MODE" value="LOHIFI" />
@@ -3389,9 +3376,11 @@
     <!--webber.yan@MULTIMEDIA.AUDIODRIVER.HAL, 2020/12/15, Add for Video recording switch left and right channels-->
     <path name="handset-stereo-dmic-ef">
         <ctl name="TX_CDC_DMA_TX_3 Channels" value="Two" />
+
         <ctl name="TX DEC0 MUX" value="MSM_DMIC" />
         <ctl name="TX DMIC MUX0" value="DMIC1" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
+
         <ctl name="TX DEC1 MUX" value="MSM_DMIC" />
         <ctl name="TX DMIC MUX1" value="DMIC3" />
         <ctl name="TX_AIF1_CAP Mixer DEC1" value="1" />
@@ -3399,9 +3388,11 @@
 
     <path name="handset-stereo-dmic-switch">
         <ctl name="TX_CDC_DMA_TX_3 Channels" value="Two" />
+
         <ctl name="TX DEC0 MUX" value="MSM_DMIC" />
         <ctl name="TX DMIC MUX0" value="DMIC3" />
         <ctl name="TX_AIF1_CAP Mixer DEC0" value="1" />
+
         <ctl name="TX DEC1 MUX" value="MSM_DMIC" />
         <ctl name="TX DMIC MUX1" value="DMIC1" />
         <ctl name="TX_AIF1_CAP Mixer DEC1" value="1" />
