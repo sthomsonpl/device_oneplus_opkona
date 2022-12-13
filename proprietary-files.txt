@@ -1510,6 +1510,8 @@ odm/etc/sensor/config/kona_qrd_mmc56x3x.json
 odm/etc/sensor/config/kona_qrd_sx933x_0.json
 odm/etc/sensor/config/kona_qrd_tcs3408_rear.json
 odm/etc/sensor/sensor_config.json
+odm/etc/sensor/config/kona_bu52053nvx_0.json
+
 
 # Snapdragon Computer Vision Engine
 vendor/lib/libfastcvdsp_stub.so
