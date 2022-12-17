@@ -1107,6 +1107,47 @@ odm/vendor/firmware/iris5.fw|e407108896c8617f03b44ad95ad7b2b8a17aa417
 odm/vendor/firmware/iris5_ccf1.fw|3df30aeb4a2f4590987abc15605b27b95724bbff
 odm/vendor/firmware/iris5_ccf2.fw|f656f6229ef53d8cc31d67fc1ac0fc0b106b8abf
 
+# Iris (OP9R) - from LE2101_11_F.16
+odm/etc/inparm/irissoft/inParm.lst|e3fe241272e1f4f4c0510bb907d9e9a48085f877
+odm/etc/inparm/irissoft/inParm10.txt|198d922a7d08cbdfcfdd979ec0c0344b383cc734
+odm/etc/inparm/irissoft/inParm11.txt|4579e1db153aada96489f60569c1d7559f13905c
+odm/etc/inparm/irissoft/inParm12.txt|26c05f777e84a3bbf2331644ded074d816681266
+odm/etc/inparm/irissoft/inParm14_a.txt|c4e6d8d1299d899e8142a2ea953006a7bb6b71a4
+odm/etc/inparm/irissoft/inParm14_b.txt|bc109002185a19c6cffabe703eb288f0e2e42d78
+odm/etc/inparm/irissoft/inParm14_c.txt|47b7d4167ddfc7a46094a6fcc8c4987821194f72
+odm/etc/inparm/irissoft/inParm16_center.txt|4b983e815c7262a0d7ee67c987cf80f38c970a81
+odm/etc/inparm/irissoft/inParm16_down.txt|65c87c096d4c9cfe35010177380115dd1c6f14f6
+odm/etc/inparm/irissoft/inParm16_up.txt|4ca33535cc5e6dcdefe4298b5a536e5f9fc504f3
+odm/etc/inparm/irissoft/inParm17_center.txt|e0e75ead150ff44a014560cd0d2d3e2d7c8aaac7
+odm/etc/inparm/irissoft/inParm17_down.txt|e16cd2e5bf63b4867f1a281ba840d06186ada03f
+odm/etc/inparm/irissoft/inParm17_up.txt|eebf6ebc6864965c632f6035a01b695a1d1c3589
+odm/etc/inparm/irissoft/inParm18_center.txt|429f991ba1d6dfbfb788d60ea904c31967b8701d
+odm/etc/inparm/irissoft/inParm18_down.txt|c728b6b172ad01de9bd6ae72d1ea81c683d0a865
+odm/etc/inparm/irissoft/inParm18_up.txt|d6833be2f89773308a5d8f265a74a67e51f6e048
+odm/etc/inparm/irissoft/inParm1_center.txt|69e07eaa03efc0352d74a3beab11f298f2d7af1c
+odm/etc/inparm/irissoft/inParm1_down.txt|1a4aa9f68cc21f62714626a6aa41dc22d23c67cf
+odm/etc/inparm/irissoft/inParm1_up.txt|eb266ecc0d7b692e9f4b0f6fafb6c86a05343410
+odm/etc/inparm/irissoft/inParm2_center.txt|6cd7d04607eaf502868dfdbc811898a6b02b7004
+odm/etc/inparm/irissoft/inParm2_down.txt|998a2b5814405e63650c61ca3b901841ec600739
+odm/etc/inparm/irissoft/inParm2_up.txt|555f3c962dd4348ff51f8c643501320784678484
+odm/etc/inparm/irissoft/inParm3_center.txt|ddd8d01465e6f64c7e81df36437899da6cc8dadb
+odm/etc/inparm/irissoft/inParm3_down.txt|dbd0062f616b3f34d596910cbd081a90ec403caa
+odm/etc/inparm/irissoft/inParm3_up.txt|5e50b7bebb5a2ae7579004943b0d1157c45c510a
+odm/etc/inparm/irissoft/inParm4_center.txt|48029c1317824ae084f4684020b5093bf94ce035
+odm/etc/inparm/irissoft/inParm4_down.txt|bdc904d8b51f718dd5473927f68e8ad8a002467f
+odm/etc/inparm/irissoft/inParm4_up.txt|ec669559b8b8350716d1d029a59407142bc5e95f
+odm/etc/inparm/irissoft/inParm5_center.txt|2d9f24b1da9490193ea526a6e985c0062d2dd34c
+odm/etc/inparm/irissoft/inParm5_down.txt|14c099cc7065521c0338a12caefef74999329892
+odm/etc/inparm/irissoft/inParm5_up.txt|d73b766fcacb18af07d2b423ca7413c0ec23f227
+odm/etc/inparm/irissoft/inParm6_center.txt|1059aa9eae152bbe7afa1306fb33a6293aed12f8
+odm/etc/inparm/irissoft/inParm6_down.txt|2cf36ce6d4a6f2cb38e27ac594534b49a55164cb
+odm/etc/inparm/irissoft/inParm6_up.txt|0d1948cfa3394e2de7d012c5b3f7f6cb350f667f
+odm/etc/inparm/irissoft/inParm8_a.txt|1bf740e4aa306460af87df5367ca1270467ddc4b
+odm/etc/inparm/irissoft/inParm8_b.txt|c889524d438ca8e91450ba0b3903fd3513fabbe4
+odm/etc/inparm/irissoft/inParm8_c.txt|5c62eafba36428f3bce04ce8da7c589925f34746
+odm/etc/inparm/irissoft/mcfCheck.txt|21fa00edb330b6fb85cbc90a5096a1a784548dfb
+odm/etc/irissoft.fw|be0d62ecf311e0dc4a2bd70c931ee1774b8a769b
+
 # IRQ balance
 vendor/bin/msm_irqbalance
 vendor/etc/msm_irqbalance.conf
