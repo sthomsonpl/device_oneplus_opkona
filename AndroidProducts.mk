@@ -6,6 +6,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lemonkebab.mk
+    $(LOCAL_DIR)/weedos_opkona.mk
 
 
