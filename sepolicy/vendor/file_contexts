@@ -10,7 +10,6 @@
 /(odm|vendor/odm)/lib/rfsa/adsp/libc\+\+\.so                                                 u:object_r:same_process_hal_file:s0
 /(odm|vendor/odm)/lib64/hta_lib/libhta_hexagon_runtime\.so                                   u:object_r:same_process_hal_file:s0
 /(odm|vendor/odm)/lib64/libfastov_dsp\.so                                                    u:object_r:same_process_hal_file:s0
-/(vendor|system/vendor)/bin/hw/vendor\.oplus\.hardware\.cameraMDM@2\.0-service               u:object_r:vendor_hal_cameraMDM_default_exec:s0
 /(vendor|system/vendor)/dsp(/.*)?                                                            u:object_r:adsprpcd_file:s0
 /(vendor|system/vendor)/lib/rfsa/adsp/libBeautyShot_skel\.so                                 u:object_r:same_process_hal_file:s0
 /(vendor|system/vendor)/lib/rfsa/adsp/libMFSR_FRT_skel\.so                                   u:object_r:same_process_hal_file:s0
