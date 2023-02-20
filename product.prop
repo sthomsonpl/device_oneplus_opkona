@@ -12,3 +12,6 @@ ro.com.google.lens.oem_camera_package=com.oneplus.camera
 # Expose AUX to oneplus camera
 persist.sys.aux.camera_manufacturer=oneplus
 persist.sys.aux.camera_oem_package=com.oneplus.camera
+
+# Oplus Linearmotor service
+persist.sys.service.enable_oplus_linearmotor=true
