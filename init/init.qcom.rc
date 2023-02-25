@@ -83,6 +83,10 @@ on init
 on post-fs
     chmod 0755 /sys/kernel/debug/tracing
 
+    mkdir /mnt/vendor/persist/camera 0777 system system
+    mkdir /mnt/vendor/persist/dual_camera_calibration 0777 system system
+    chmod 777 /odm/etc/camera/calibrationOutput_uw.bin
+
 on early-boot
     # set RLIMIT_MEMLOCK to 64MB
     setrlimit 8 67108864 67108864
