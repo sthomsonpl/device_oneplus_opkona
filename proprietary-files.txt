@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise, are
-## from OnePlus 8 Pro (IN2025_11.F.15).
+## from OnePlus 8 Pro (IN2025_11.F.63).
 
 # ACDBs
 odm/etc/acdbdata/Audio_Parameter_Version.txt
@@ -12,25 +12,25 @@ odm/etc/acdbdata/Headset_cal.acdb
 odm/etc/acdbdata/Speaker_cal.acdb
 vendor/etc/acdbdata/adsp_avs_config.acdb
 
-# ACDB (OP8) - from IN2025_11.F.15
-odm/etc/acdbdata/Audio_Parameter_Version.txt:odm/19821/etc/acdbdata/Audio_Parameter_Version.txt|5dae6d81e12a32eb2c5b5e8eac658c96953b68e0
-odm/etc/acdbdata/Bluetooth_cal.acdb:odm/19821/etc/acdbdata/Bluetooth_cal.acdb|1de6ffe87b58e8255c4cd17f1cbeea4fa4053291
-odm/etc/acdbdata/General_cal.acdb:odm/19821/etc/acdbdata/General_cal.acdb|503e99949a60aa9ea24d0a2a00860dfab0f54536
-odm/etc/acdbdata/Global_cal.acdb:odm/19821/etc/acdbdata/Global_cal.acdb|e8b0a8bf0f5270f989f1c0b2010e56710414a54d
-odm/etc/acdbdata/Handset_cal.acdb:odm/19821/etc/acdbdata/Handset_cal.acdb|1b0b3a4b1812fcae1d92dee689a4ff75eda5c2be
-odm/etc/acdbdata/Hdmi_cal.acdb:odm/19821/etc/acdbdata/Hdmi_cal.acdb|6b73ba5d3bea840e6edd80d267422c1be1190185
-odm/etc/acdbdata/Headset_cal.acdb:odm/19821/etc/acdbdata/Headset_cal.acdb|475dfd826afb89dd017dd812c0a6825dc6fa6392
-odm/etc/acdbdata/Speaker_cal.acdb:odm/19821/etc/acdbdata/Speaker_cal.acdb|4431fad79aa869a4a8a627859c825c9c166d737d
+# ACDB (OP8) - from IN2025_11.F.63
+odm/etc/acdbdata/Audio_Parameter_Version.txt:odm/19821/etc/acdbdata/Audio_Parameter_Version.txt|09034ac67c2259f65b6fae5e1005680a1699c7f0
+odm/etc/acdbdata/Bluetooth_cal.acdb:odm/19821/etc/acdbdata/Bluetooth_cal.acdb|dee53a90f3e00f27eece689303d5b7d2563eb7f5
+odm/etc/acdbdata/General_cal.acdb:odm/19821/etc/acdbdata/General_cal.acdb|50ce3fdcd2eddc3fe4d1f14215efb9a7736c0993
+odm/etc/acdbdata/Global_cal.acdb:odm/19821/etc/acdbdata/Global_cal.acdb|227ca61067faae8672964f566c8efe9501238b18
+odm/etc/acdbdata/Handset_cal.acdb:odm/19821/etc/acdbdata/Handset_cal.acdb|539e60b8e153032b9db63c8f0945928e817d98fd
+odm/etc/acdbdata/Hdmi_cal.acdb:odm/19821/etc/acdbdata/Hdmi_cal.acdb|fa7dcf67371310a2ad7514275e40f13169b5af0d
+odm/etc/acdbdata/Headset_cal.acdb:odm/19821/etc/acdbdata/Headset_cal.acdb|f2cf47841838e139ca58922eba6a14bfecca264d
+odm/etc/acdbdata/Speaker_cal.acdb:odm/19821/etc/acdbdata/Speaker_cal.acdb|4979861e34f5611f4c38842af97797d376fe0a3b
 
-# ACDB (OP8P) - from IN2025_11.F.15
-odm/etc/acdbdata/Audio_Parameter_Version.txt:odm/19811/etc/acdbdata/Audio_Parameter_Version.txt|5dae6d81e12a32eb2c5b5e8eac658c96953b68e0
-odm/etc/acdbdata/Bluetooth_cal.acdb:odm/19811/etc/acdbdata/Bluetooth_cal.acdb|1de6ffe87b58e8255c4cd17f1cbeea4fa4053291
-odm/etc/acdbdata/General_cal.acdb:odm/19811/etc/acdbdata/General_cal.acdb|503e99949a60aa9ea24d0a2a00860dfab0f54536
-odm/etc/acdbdata/Global_cal.acdb:odm/19811/etc/acdbdata/Global_cal.acdb|e8b0a8bf0f5270f989f1c0b2010e56710414a54d
-odm/etc/acdbdata/Handset_cal.acdb:odm/19811/etc/acdbdata/Handset_cal.acdb|1b0b3a4b1812fcae1d92dee689a4ff75eda5c2be
-odm/etc/acdbdata/Hdmi_cal.acdb:odm/19811/etc/acdbdata/Hdmi_cal.acdb|6b73ba5d3bea840e6edd80d267422c1be1190185
-odm/etc/acdbdata/Headset_cal.acdb:odm/19811/etc/acdbdata/Headset_cal.acdb|475dfd826afb89dd017dd812c0a6825dc6fa6392
-odm/etc/acdbdata/Speaker_cal.acdb:odm/19811/etc/acdbdata/Speaker_cal.acdb|4431fad79aa869a4a8a627859c825c9c166d737d
+# ACDB (OP8P) - from IN2025_11.F.63
+odm/etc/acdbdata/Audio_Parameter_Version.txt:odm/19811/etc/acdbdata/Audio_Parameter_Version.txt|09034ac67c2259f65b6fae5e1005680a1699c7f0
+odm/etc/acdbdata/Bluetooth_cal.acdb:odm/19811/etc/acdbdata/Bluetooth_cal.acdb|dee53a90f3e00f27eece689303d5b7d2563eb7f5
+odm/etc/acdbdata/General_cal.acdb:odm/19811/etc/acdbdata/General_cal.acdb|50ce3fdcd2eddc3fe4d1f14215efb9a7736c0993
+odm/etc/acdbdata/Global_cal.acdb:odm/19811/etc/acdbdata/Global_cal.acdb|227ca61067faae8672964f566c8efe9501238b18
+odm/etc/acdbdata/Handset_cal.acdb:odm/19811/etc/acdbdata/Handset_cal.acdb|539e60b8e153032b9db63c8f0945928e817d98fd
+odm/etc/acdbdata/Hdmi_cal.acdb:odm/19811/etc/acdbdata/Hdmi_cal.acdb|fa7dcf67371310a2ad7514275e40f13169b5af0d
+odm/etc/acdbdata/Headset_cal.acdb:odm/19811/etc/acdbdata/Headset_cal.acdb|f2cf47841838e139ca58922eba6a14bfecca264d
+odm/etc/acdbdata/Speaker_cal.acdb:odm/19811/etc/acdbdata/Speaker_cal.acdb|4979861e34f5611f4c38842af97797d376fe0a3b
 
 # ADSP
 vendor/bin/adsprpcd
@@ -100,11 +100,11 @@ vendor/lib64/hw/com.dsi.ant@1.0-impl.so
 odm/firmware/tfa98xx.cnt
 
 
-# Audio firmware (OP8) - from IN2025_11.F.15
-odm/firmware/tfa98xx.cnt:odm/19821/firmware/tfa98xx.cnt|0d658230278862d0a72645cf41492d5e47946d9a
+# Audio firmware (OP8) - from IN2025_11.F.63
+odm/firmware/tfa98xx.cnt:odm/19821/firmware/tfa98xx.cnt|fcf3005d288595d11bc571ae9a1a4e12441ef009
 
-# Audio firmware (OP8P) - from IN2025_11.F.15
-odm/firmware/tfa98xx.cnt:odm/19811/firmware/tfa98xx.cnt|0d658230278862d0a72645cf41492d5e47946d9a
+# Audio firmware (OP8P) - from IN2025_11.F.63
+odm/firmware/tfa98xx.cnt:odm/19811/firmware/tfa98xx.cnt|fcf3005d288595d11bc571ae9a1a4e12441ef009
 
 # Audio libraries
 vendor/lib/soundfx/libasphere.so
@@ -391,24 +391,24 @@ odm/lib64/camera/com.qti_lemonades.sensor.imx471.so:odm/20828/lib64/camera/com.q
 odm/lib64/camera/com.qti_lemonades.sensor.imx481.so:odm/20828/lib64/camera/com.qti_lemonades.sensor.imx481.so
 odm/lib64/camera/com.qti_lemonades.sensor.imx586.so:odm/20828/lib64/camera/com.qti_lemonades.sensor.imx586.so
 
-# Camera (OP8) - from IN2025_11.F.15
+# Camera (OP8) - from IN2025_11.F.63
 odm/etc/camera/ashdr/ncf_pack.ncf:odm/19821/etc/camera/ashdr/ncf_pack.ncf|1d64ee5e6ffc6d9a568432be6a9c74fd0fbf07a3
 odm/etc/camera/ashdr/ncf_pack_imx471.ncf:odm/19821/etc/camera/ashdr/ncf_pack_imx471.ncf|03c58aaba48ff82b25c2b54d814a0659b7d1fb2b
-odm/etc/camera/ashdr/ncf_pack_imx481.ncf:odm/19821/etc/camera/ashdr/ncf_pack_imx481.ncf|606c3f7ec2ce68d33b7391d74ebc253f4798ebc5
-odm/etc/camera/ashdr/ncf_pack_imx586.ncf:odm/19821/etc/camera/ashdr/ncf_pack_imx586.ncf|874710939387840238898134367d6ab6b7356e20
-odm/etc/camera/calibrationOutput_uw.bin:odm/19821/etc/camera/calibrationOutput_uw.bin|2e6182c30520f799bb1a24fb6f9a2bfba6a62e58
+odm/etc/camera/ashdr/ncf_pack_imx481.ncf:odm/19821/etc/camera/ashdr/ncf_pack_imx481.ncf|639e6b3526738e361517a1a3657ba7330273870d
+odm/etc/camera/ashdr/ncf_pack_imx586.ncf:odm/19821/etc/camera/ashdr/ncf_pack_imx586.ncf|a3d1ea623ab73fad62b6699f5b63676d072998c9
+odm/etc/camera/calibrationOutput_uw.bin:odm/19821/etc/camera/calibrationOutput_uw.bin|54996576cfaf5282a5561a5d1597194282cac0df
 odm/etc/camera/darksight/darksight_main.bin:odm/19821/etc/camera/darksight/darksight_main.bin|eee66587fecf159e4b5ee64f1f8bb63928e8eb62
 odm/etc/camera/darksight/darksight_ultrawide.bin:odm/19821/etc/camera/darksight/darksight_ultrawide.bin|3c8c1155b6686eb16e53354711ca8baf5f9f2883
-odm/etc/camera/distortion_result.bin:odm/19821/etc/camera/distortion_result.bin|c761d6a63f80a526fe76c10da6774087f7746f80
+odm/etc/camera/distortion_result.bin:odm/19821/etc/camera/distortion_result.bin|42249e14db11d3dceb373fc39e8800f529704396
 odm/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin:odm/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481.bin|71b9a43ac95fcefe4b9c534f96009f409cdbce17
 odm/lib64/camera/com.qti.sensormodule.ofilm_imx481_SFK.bin:odm/19821/lib64/camera/com.qti.sensormodule.ofilm_imx481_SFK.bin|9513be5f63bdedcaae9507d57380e0a36d5bac94
-odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin:odm/19821/lib64/camera/com.qti.sensormodule.semco_imx586.bin|4894b629f89fc4088b391b86fee472e2369faf89
+odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin:odm/19821/lib64/camera/com.qti.sensormodule.semco_imx586.bin|4607009be7af0d3bd72056f0995b3cb5dfad3ba8
 odm/lib64/camera/com.qti.sensormodule.shine_gc2375.bin:odm/19821/lib64/camera/com.qti.sensormodule.shine_gc2375.bin|35d247b496303a7a5133a2c488d2e15229f0736d
-odm/lib64/camera/com.qti.sensormodule.truly_imx471.bin:odm/19821/lib64/camera/com.qti.sensormodule.truly_imx471.bin|bdefe56330d232af0c145b6496c9a24f8789017d
-odm/lib64/camera/com.qti.tuned.ofilm_imx481.bin:odm/19821/lib64/camera/com.qti.tuned.ofilm_imx481.bin|e2771b4472343771a5d4b3f89a86b35ded30ff22
-odm/lib64/camera/com.qti.tuned.semco_imx586.bin:odm/19821/lib64/camera/com.qti.tuned.semco_imx586.bin|99554e875311ed56f4eacd0a0565aeae5264650e
-odm/lib64/camera/com.qti.tuned.shine_gc2375.bin:odm/19821/lib64/camera/com.qti.tuned.shine_gc2375.bin|7fab0eb98bb995e41104a2c8315d251b57a15bec
-odm/lib64/camera/com.qti.tuned.truly_imx471.bin:odm/19821/lib64/camera/com.qti.tuned.truly_imx471.bin|627855ca04c7109d6b9594a7d290fdf40031798a
+odm/lib64/camera/com.qti.sensormodule.truly_imx471.bin:odm/19821/lib64/camera/com.qti.sensormodule.truly_imx471.bin|f7e97629ecba642a06272519634a66c13323a69f
+odm/lib64/camera/com.qti.tuned.ofilm_imx481.bin:odm/19821/lib64/camera/com.qti.tuned.ofilm_imx481.bin|486e8fa13b089b844237aff69e1b19923a2d5e60
+odm/lib64/camera/com.qti.tuned.semco_imx586.bin:odm/19821/lib64/camera/com.qti.tuned.semco_imx586.bin|18f80829e6743d2986b72dfbe8653aa2d8677b30
+odm/lib64/camera/com.qti.tuned.shine_gc2375.bin:odm/19821/lib64/camera/com.qti.tuned.shine_gc2375.bin|42ada08fdd07c4ca999938ba1e4b9de70b4a11dd
+odm/lib64/camera/com.qti.tuned.truly_imx471.bin:odm/19821/lib64/camera/com.qti.tuned.truly_imx471.bin|89c6d90b39e6c920533835f10ebd0435bb4ae4a5
 odm/lib64/camera/com.qti_instantnoodle.sensor.gc2375.so:odm/19821/lib64/camera/com.qti_instantnoodle.sensor.gc2375.so|a1d688c6eac5dd08d56159ea47fe9b362cefa956
 odm/lib64/camera/com.qti_instantnoodle.sensor.imx471.so:odm/19821/lib64/camera/com.qti_instantnoodle.sensor.imx471.so|3eb23febc3138a433dc0efceb44c579501a5217a
 odm/lib64/camera/com.qti_instantnoodle.sensor.imx481.so:odm/19821/lib64/camera/com.qti_instantnoodle.sensor.imx481.so|0a3dc56fa9344af0a6492931d0b9ebccba2658e2
@@ -416,34 +416,34 @@ odm/lib64/camera/com.qti_instantnoodle.sensor.imx586.so:odm/19821/lib64/camera/c
 odm/lib64/camera/components/com.qti.stats.pdlib.so:odm/19821/lib64/camera/components/com.qti.stats.pdlib.so|4483be8e54e6a769efb5a954d3aea3da8cfe6804
 odm/lib64/camera/components/libipebpsstriping.so:odm/19821/lib64/camera/components/libipebpsstriping.so|0d02a417fb26379c569e7f8c6cb90126235eb2f8
 
-# Camera (OP8P) - from IN2025_11.F.15
+# Camera (OP8P) - from IN2025_11.F.63
 odm/etc/camera/ashdr/ncf_pack.ncf:odm/19811/etc/camera/ashdr/ncf_pack.ncf|1d64ee5e6ffc6d9a568432be6a9c74fd0fbf07a3
 odm/etc/camera/ashdr/ncf_pack_imx471.ncf:odm/19811/etc/camera/ashdr/ncf_pack_imx471.ncf|03c58aaba48ff82b25c2b54d814a0659b7d1fb2b
-odm/etc/camera/ashdr/ncf_pack_imx586.ncf:odm/19811/etc/camera/ashdr/ncf_pack_imx586.ncf|874710939387840238898134367d6ab6b7356e20
+odm/etc/camera/ashdr/ncf_pack_imx586.ncf:odm/19811/etc/camera/ashdr/ncf_pack_imx586.ncf|a3d1ea623ab73fad62b6699f5b63676d072998c9
 odm/etc/camera/ashdr/ncf_pack_imx689.ncf:odm/19811/etc/camera/ashdr/ncf_pack_imx689.ncf|8cf26f8a7b039f129bb93906eba960a133fe2460
 odm/etc/camera/ashdr/ncf_pack_s5k3m5.ncf:odm/19811/etc/camera/ashdr/ncf_pack_s5k3m5.ncf|e4c0f33c124993423c4deef9a701b59f80ba7e68
 odm/etc/camera/calibrationOutput_IR.bin:odm/19811/etc/camera/calibrationOutput_IR.bin|4ee9dfc011483bcb729ff81f6d387fa8c7888ee7
-odm/etc/camera/calibrationOutput_uw.bin:odm/19811/etc/camera/calibrationOutput_uw.bin|2e6182c30520f799bb1a24fb6f9a2bfba6a62e58
+odm/etc/camera/calibrationOutput_uw.bin:odm/19811/etc/camera/calibrationOutput_uw.bin|54996576cfaf5282a5561a5d1597194282cac0df
 odm/etc/camera/calibrationOutput_wt.bin:odm/19811/etc/camera/calibrationOutput_wt.bin|c9b3b7b09f41d69849d05aa359901cb114604970
 odm/etc/camera/darksight/darksight_main.bin:odm/19811/etc/camera/darksight/darksight_main.bin|eee66587fecf159e4b5ee64f1f8bb63928e8eb62
 odm/etc/camera/darksight/darksight_ultrawide.bin:odm/19811/etc/camera/darksight/darksight_ultrawide.bin|3c8c1155b6686eb16e53354711ca8baf5f9f2883
-odm/etc/camera/distortion_result.bin:odm/19811/etc/camera/distortion_result.bin|c761d6a63f80a526fe76c10da6774087f7746f80
+odm/etc/camera/distortion_result.bin:odm/19811/etc/camera/distortion_result.bin|42249e14db11d3dceb373fc39e8800f529704396
 odm/etc/init/calibrationOutput_IR.rc:odm/19811/etc/init/calibrationOutput_IR.rc|8b79252c6a7b170fad45b95270a34e9b2638ac8a
 odm/etc/init/calibrationOutput_uw.rc:odm/19811/etc/init/calibrationOutput_uw.rc|6b52a4b0af0c097aa7e443eb2bd9f2902aad750a
 odm/etc/init/calibrationOutput_wt.rc:odm/19811/etc/init/calibrationOutput_wt.rc|2559cf2fd010d6be28147e5590d9cda1ff25ddfe
-odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin:odm/19811/lib64/camera/com.qti.sensormodule.semco_imx586.bin|4894b629f89fc4088b391b86fee472e2369faf89
+odm/lib64/camera/com.qti.sensormodule.semco_imx586.bin:odm/19811/lib64/camera/com.qti.sensormodule.semco_imx586.bin|4607009be7af0d3bd72056f0995b3cb5dfad3ba8
 odm/lib64/camera/com.qti.sensormodule.semco_imx586_BG.bin:odm/19811/lib64/camera/com.qti.sensormodule.semco_imx586_BG.bin|86271f9f5d29db5f0830c952c3a23b2389ddac15
 odm/lib64/camera/com.qti.sensormodule.semco_imx689.bin:odm/19811/lib64/camera/com.qti.sensormodule.semco_imx689.bin|62dd4c254d17e912ecb30903624351a1043255fc
 odm/lib64/camera/com.qti.sensormodule.semco_imx689_MP.bin:odm/19811/lib64/camera/com.qti.sensormodule.semco_imx689_MP.bin|0b1b66a8e1992634684a17abebcc3154ee4da76b
 odm/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin:odm/19811/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin|96280b9a28f3388b3570c9ccc4b25bbb8033ff17
-odm/lib64/camera/com.qti.sensormodule.shine_gc5035.bin:odm/19811/lib64/camera/com.qti.sensormodule.shine_gc5035.bin|d4f7ff173fc0ad223a6c13b8a156437256f28a19
-odm/lib64/camera/com.qti.sensormodule.truly_imx471.bin:odm/19811/lib64/camera/com.qti.sensormodule.truly_imx471.bin|bdefe56330d232af0c145b6496c9a24f8789017d
-odm/lib64/camera/com.qti.tuned.semco_imx586.bin:odm/19811/lib64/camera/com.qti.tuned.semco_imx586.bin|99554e875311ed56f4eacd0a0565aeae5264650e
-odm/lib64/camera/com.qti.tuned.semco_imx586_BG.bin:odm/19811/lib64/camera/com.qti.tuned.semco_imx586_BG.bin|c8a193f4c0cb9c1e68ed9cf77625dab304168d9a
-odm/lib64/camera/com.qti.tuned.semco_imx689.bin:odm/19811/lib64/camera/com.qti.tuned.semco_imx689.bin|880b24bfa4ccf4661532fec6a955c55d651756d1
-odm/lib64/camera/com.qti.tuned.semco_s5k3m5.bin:odm/19811/lib64/camera/com.qti.tuned.semco_s5k3m5.bin|404397615cdf93d56ca4714404d8447be9ca3c54
-odm/lib64/camera/com.qti.tuned.shine_gc5035.bin:odm/19811/lib64/camera/com.qti.tuned.shine_gc5035.bin|f164e9af2bc78fdc6d1d5e0a17c0cabe5e6f764e
-odm/lib64/camera/com.qti.tuned.truly_imx471.bin:odm/19811/lib64/camera/com.qti.tuned.truly_imx471.bin|627855ca04c7109d6b9594a7d290fdf40031798a
+odm/lib64/camera/com.qti.sensormodule.shine_gc5035.bin:odm/19811/lib64/camera/com.qti.sensormodule.shine_gc5035.bin|3bdc28a1b02085fee44fbbcd3189de05a1e24e1f
+odm/lib64/camera/com.qti.sensormodule.truly_imx471.bin:odm/19811/lib64/camera/com.qti.sensormodule.truly_imx471.bin|f7e97629ecba642a06272519634a66c13323a69f
+odm/lib64/camera/com.qti.tuned.semco_imx586.bin:odm/19811/lib64/camera/com.qti.tuned.semco_imx586.bin|18f80829e6743d2986b72dfbe8653aa2d8677b30
+odm/lib64/camera/com.qti.tuned.semco_imx586_BG.bin:odm/19811/lib64/camera/com.qti.tuned.semco_imx586_BG.bin|c8e8456247a0ca380e7bae89be21942b0de2608e
+odm/lib64/camera/com.qti.tuned.semco_imx689.bin:odm/19811/lib64/camera/com.qti.tuned.semco_imx689.bin|3e93a354e30a3d70d670475c267088ae31bb85d7
+odm/lib64/camera/com.qti.tuned.semco_s5k3m5.bin:odm/19811/lib64/camera/com.qti.tuned.semco_s5k3m5.bin|14371d446cfe50de88e88d1aeb2265ed9f41e012
+odm/lib64/camera/com.qti.tuned.shine_gc5035.bin:odm/19811/lib64/camera/com.qti.tuned.shine_gc5035.bin|6c41a0faaed87e8451ddf183d2cd766cee2f12c8
+odm/lib64/camera/com.qti.tuned.truly_imx471.bin:odm/19811/lib64/camera/com.qti.tuned.truly_imx471.bin|89c6d90b39e6c920533835f10ebd0435bb4ae4a5
 odm/lib64/camera/com.qti_instantnoodlep.sensor.gc5035.so:odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.gc5035.so|1f1daaffae0fc034310c533eb9093895eb155a3f
 odm/lib64/camera/com.qti_instantnoodlep.sensor.imx471.so:odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx471.so|b486bee8d3c4573c92d14e4a4841b5c8fe08ddd0
 odm/lib64/camera/com.qti_instantnoodlep.sensor.imx586.so:odm/19811/lib64/camera/com.qti_instantnoodlep.sensor.imx586.so|08ecddb9cd5640aa1c2ae01b939385d6333cba34
@@ -783,47 +783,47 @@ odm/vendor/firmware/gfp9678.b07
 odm/vendor/firmware/gfp9678.mdt
 
 
-# Fingerprint Firmware (OP8) - from IN2025_11.F.15
+# Fingerprint Firmware (OP8) - from IN2025_11.F.63
 odm/vendor/firmware/gfp9608.b00:odm/19821/vendor/firmware/gfp9608.b00|517dd164033e997eb36d7ca771228e033bbdee7f
-odm/vendor/firmware/gfp9608.b01:odm/19821/vendor/firmware/gfp9608.b01|65707caf319a295169f486f71413f0f085074369
-odm/vendor/firmware/gfp9608.b02:odm/19821/vendor/firmware/gfp9608.b02|04a67970e30ac3afb5d39f78ebfd4ef0a075316c
+odm/vendor/firmware/gfp9608.b01:odm/19821/vendor/firmware/gfp9608.b01|adb69ee3c32ac831014d5d059dbda3cf7787f7f2
+odm/vendor/firmware/gfp9608.b02:odm/19821/vendor/firmware/gfp9608.b02|cdc860aa73914f18d71025e53e433611ce500fbc
 odm/vendor/firmware/gfp9608.b03:odm/19821/vendor/firmware/gfp9608.b03|1c4154dea6a9288e69148c78e2c090045bc5df62
 odm/vendor/firmware/gfp9608.b04:odm/19821/vendor/firmware/gfp9608.b04|0017da9617b529f8803fc2107fbfe2d5d8fc0814
 odm/vendor/firmware/gfp9608.b05:odm/19821/vendor/firmware/gfp9608.b05|20155aea40a1ec352061b41c7184fcb7347c267c
 odm/vendor/firmware/gfp9608.b06:odm/19821/vendor/firmware/gfp9608.b06|4ab3bd86ac8cd483acfeeb33cdecbb668dbb142c
 odm/vendor/firmware/gfp9608.b07:odm/19821/vendor/firmware/gfp9608.b07|05b9edb305770ac0ecd504c53abc09e514276edf
-odm/vendor/firmware/gfp9608.mdt:odm/19821/vendor/firmware/gfp9608.mdt|544170bb2414f4b5b5f7e3526150ae80a69ce41d
-odm/vendor/firmware/gfp9638.b00:odm/19821/vendor/firmware/gfp9638.b00|fdbffdef516aa5260bc239bb2f88ddc4c8709969
-odm/vendor/firmware/gfp9638.b01:odm/19821/vendor/firmware/gfp9638.b01|92ad47c187e74aa1bb0f43f76557ab7a675026b2
-odm/vendor/firmware/gfp9638.b02:odm/19821/vendor/firmware/gfp9638.b02|ef425d7760fe329f1467daee98565f71283731b1
-odm/vendor/firmware/gfp9638.b03:odm/19821/vendor/firmware/gfp9638.b03|9e7e5c44e5991620bff93b43141cc098b51eb623
-odm/vendor/firmware/gfp9638.b04:odm/19821/vendor/firmware/gfp9638.b04|336fe8f8010c11e7b616c793f6e7d23666bc3e4f
-odm/vendor/firmware/gfp9638.b05:odm/19821/vendor/firmware/gfp9638.b05|4881b01544b4dfffe0ba7521be18a0a433effd08
-odm/vendor/firmware/gfp9638.b06:odm/19821/vendor/firmware/gfp9638.b06|7afc38357596c6970ca62123ebf1a4645e07f8ec
-odm/vendor/firmware/gfp9638.b07:odm/19821/vendor/firmware/gfp9638.b07|62c2ecba92b6e7778ae60ec7e496d157d31f7755
-odm/vendor/firmware/gfp9638.mdt:odm/19821/vendor/firmware/gfp9638.mdt|d1a5ee20f43ce86f24735691be7abf6620d74558
+odm/vendor/firmware/gfp9608.mdt:odm/19821/vendor/firmware/gfp9608.mdt|e54cd2d201b0200946761b1849a72a3dd432d400
+odm/vendor/firmware/gfp9638.b00:odm/19821/vendor/firmware/gfp9638.b00|4c5a2009d277906f72c6d615ee7db5bc3905d6d3
+odm/vendor/firmware/gfp9638.b01:odm/19821/vendor/firmware/gfp9638.b01|e59e311e4e8f445ca13979c899a38d4c5003b5b3
+odm/vendor/firmware/gfp9638.b02:odm/19821/vendor/firmware/gfp9638.b02|e80bdd2b396814f62d407df3eedd19f1295690e0
+odm/vendor/firmware/gfp9638.b03:odm/19821/vendor/firmware/gfp9638.b03|8c1201c205c3ca355233deea7ed26cef3ad4a9a8
+odm/vendor/firmware/gfp9638.b04:odm/19821/vendor/firmware/gfp9638.b04|5718266a67f56f9f5d1b69df136eada238d6e2bb
+odm/vendor/firmware/gfp9638.b05:odm/19821/vendor/firmware/gfp9638.b05|f87c0e132ee0e32f01cdad149e611157ae2ddbab
+odm/vendor/firmware/gfp9638.b06:odm/19821/vendor/firmware/gfp9638.b06|5f29d340eacdd43da074cff90b9ca3d29ea45383
+odm/vendor/firmware/gfp9638.b07:odm/19821/vendor/firmware/gfp9638.b07|8b3ad6e007611bfe3fb35949307520085688f87b
+odm/vendor/firmware/gfp9638.mdt:odm/19821/vendor/firmware/gfp9638.mdt|9723d34ad069b83da16edb537f3fbaacdcc08d1d
 
 
 
-# Fingerprint Firmware (OP8P) - from IN2025_11.F.15
+# Fingerprint Firmware (OP8P) - from IN2025_11.F.63
 odm/vendor/firmware/gfp9608.b00:odm/19811/vendor/firmware/gfp9608.b00|517dd164033e997eb36d7ca771228e033bbdee7f
-odm/vendor/firmware/gfp9608.b01:odm/19811/vendor/firmware/gfp9608.b01|65707caf319a295169f486f71413f0f085074369
-odm/vendor/firmware/gfp9608.b02:odm/19811/vendor/firmware/gfp9608.b02|04a67970e30ac3afb5d39f78ebfd4ef0a075316c
+odm/vendor/firmware/gfp9608.b01:odm/19811/vendor/firmware/gfp9608.b01|adb69ee3c32ac831014d5d059dbda3cf7787f7f2
+odm/vendor/firmware/gfp9608.b02:odm/19811/vendor/firmware/gfp9608.b02|cdc860aa73914f18d71025e53e433611ce500fbc
 odm/vendor/firmware/gfp9608.b03:odm/19811/vendor/firmware/gfp9608.b03|1c4154dea6a9288e69148c78e2c090045bc5df62
 odm/vendor/firmware/gfp9608.b04:odm/19811/vendor/firmware/gfp9608.b04|0017da9617b529f8803fc2107fbfe2d5d8fc0814
 odm/vendor/firmware/gfp9608.b05:odm/19811/vendor/firmware/gfp9608.b05|20155aea40a1ec352061b41c7184fcb7347c267c
 odm/vendor/firmware/gfp9608.b06:odm/19811/vendor/firmware/gfp9608.b06|4ab3bd86ac8cd483acfeeb33cdecbb668dbb142c
 odm/vendor/firmware/gfp9608.b07:odm/19811/vendor/firmware/gfp9608.b07|05b9edb305770ac0ecd504c53abc09e514276edf
-odm/vendor/firmware/gfp9608.mdt:odm/19811/vendor/firmware/gfp9608.mdt|544170bb2414f4b5b5f7e3526150ae80a69ce41d
-odm/vendor/firmware/gfp9638.b00:odm/19811/vendor/firmware/gfp9638.b00|fdbffdef516aa5260bc239bb2f88ddc4c8709969
-odm/vendor/firmware/gfp9638.b01:odm/19811/vendor/firmware/gfp9638.b01|92ad47c187e74aa1bb0f43f76557ab7a675026b2
-odm/vendor/firmware/gfp9638.b02:odm/19811/vendor/firmware/gfp9638.b02|ef425d7760fe329f1467daee98565f71283731b1
-odm/vendor/firmware/gfp9638.b03:odm/19811/vendor/firmware/gfp9638.b03|9e7e5c44e5991620bff93b43141cc098b51eb623
-odm/vendor/firmware/gfp9638.b04:odm/19811/vendor/firmware/gfp9638.b04|336fe8f8010c11e7b616c793f6e7d23666bc3e4f
-odm/vendor/firmware/gfp9638.b05:odm/19811/vendor/firmware/gfp9638.b05|4881b01544b4dfffe0ba7521be18a0a433effd08
-odm/vendor/firmware/gfp9638.b06:odm/19811/vendor/firmware/gfp9638.b06|7afc38357596c6970ca62123ebf1a4645e07f8ec
-odm/vendor/firmware/gfp9638.b07:odm/19811/vendor/firmware/gfp9638.b07|62c2ecba92b6e7778ae60ec7e496d157d31f7755
-odm/vendor/firmware/gfp9638.mdt:odm/19811/vendor/firmware/gfp9638.mdt|d1a5ee20f43ce86f24735691be7abf6620d74558
+odm/vendor/firmware/gfp9608.mdt:odm/19811/vendor/firmware/gfp9608.mdt|e54cd2d201b0200946761b1849a72a3dd432d400
+odm/vendor/firmware/gfp9638.b00:odm/19811/vendor/firmware/gfp9638.b00|4c5a2009d277906f72c6d615ee7db5bc3905d6d3
+odm/vendor/firmware/gfp9638.b01:odm/19811/vendor/firmware/gfp9638.b01|e59e311e4e8f445ca13979c899a38d4c5003b5b3
+odm/vendor/firmware/gfp9638.b02:odm/19811/vendor/firmware/gfp9638.b02|e80bdd2b396814f62d407df3eedd19f1295690e0
+odm/vendor/firmware/gfp9638.b03:odm/19811/vendor/firmware/gfp9638.b03|8c1201c205c3ca355233deea7ed26cef3ad4a9a8
+odm/vendor/firmware/gfp9638.b04:odm/19811/vendor/firmware/gfp9638.b04|5718266a67f56f9f5d1b69df136eada238d6e2bb
+odm/vendor/firmware/gfp9638.b05:odm/19811/vendor/firmware/gfp9638.b05|f87c0e132ee0e32f01cdad149e611157ae2ddbab
+odm/vendor/firmware/gfp9638.b06:odm/19811/vendor/firmware/gfp9638.b06|5f29d340eacdd43da074cff90b9ca3d29ea45383
+odm/vendor/firmware/gfp9638.b07:odm/19811/vendor/firmware/gfp9638.b07|8b3ad6e007611bfe3fb35949307520085688f87b
+odm/vendor/firmware/gfp9638.mdt:odm/19811/vendor/firmware/gfp9638.mdt|9723d34ad069b83da16edb537f3fbaacdcc08d1d
 
 # Gatekeeper
 vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti
@@ -1095,29 +1095,29 @@ odm/etc/inparm/irissoft/inParm8_b.txt
 odm/etc/inparm/irissoft/inParm8_c.txt
 odm/etc/irissoft.fw
 
-# Iris (OP8) - from IN2025_11.F.15
-odm/etc/inparm/irissoft/inParm1.txt:odm/19821/etc/inparm/irissoft/inParm1.txt|c30cf4b9713cd50599cc1a2946f51ede93b926e7
-odm/etc/inparm/irissoft/inParm10.txt:odm/19821/etc/inparm/irissoft/inParm10.txt|198d922a7d08cbdfcfdd979ec0c0344b383cc734
-odm/etc/inparm/irissoft/inParm11.txt:odm/19821/etc/inparm/irissoft/inParm11.txt|4579e1db153aada96489f60569c1d7559f13905c
-odm/etc/inparm/irissoft/inParm12.txt:odm/19821/etc/inparm/irissoft/inParm12.txt|26c05f777e84a3bbf2331644ded074d816681266
-odm/etc/inparm/irissoft/inParm13.txt:odm/19821/etc/inparm/irissoft/inParm13.txt|90854a0909377e020a20be186f222ae812f526d7
-odm/etc/inparm/irissoft/inParm14.txt:odm/19821/etc/inparm/irissoft/inParm14.txt|762423aa92665ac0143e75405bcc3b4f06ba8b4c
-odm/etc/inparm/irissoft/inParm15.txt:odm/19821/etc/inparm/irissoft/inParm15.txt|bf7d160f20455eb4fe8df9b9f51eb4a6226d96ca
-odm/etc/inparm/irissoft/inParm16.txt:odm/19821/etc/inparm/irissoft/inParm16.txt|fa103e8f3094e52083660ac41762870e7d072861
-odm/etc/inparm/irissoft/inParm17.txt:odm/19821/etc/inparm/irissoft/inParm17.txt|0edd1362b84e0613676d4d4ceee3a0267721d6d8
-odm/etc/inparm/irissoft/inParm18.txt:odm/19821/etc/inparm/irissoft/inParm18.txt|a4f02206543350dd1fa7412be6dbf850dd23e65b
-odm/etc/inparm/irissoft/inParm2.txt:odm/19821/etc/inparm/irissoft/inParm2.txt|fee3218b0fd3f7d770a6e010128fb64a08c18178
-odm/etc/inparm/irissoft/inParm3.txt:odm/19821/etc/inparm/irissoft/inParm3.txt|3b21b269edeef252f2910b9d2cb5b29b5e64ca4e
-odm/etc/inparm/irissoft/inParm4.txt:odm/19821/etc/inparm/irissoft/inParm4.txt|123a5fbb0dca72d421c75a488faa47ec71edf9ce
-odm/etc/inparm/irissoft/inParm5.txt:odm/19821/etc/inparm/irissoft/inParm5.txt|e788ff7ac6794ab18671a39ac2ec28851f06806c
-odm/etc/inparm/irissoft/inParm6.txt:odm/19821/etc/inparm/irissoft/inParm6.txt|c0b94c9cf2a824869d1b4002b872161ee738a08d
-odm/etc/inparm/irissoft/inParm7.txt:odm/19821/etc/inparm/irissoft/inParm7.txt|61ccf62395b58e96e18560d17c64b0ef41ee96e1
-odm/etc/inparm/irissoft/inParm8.txt:odm/19821/etc/inparm/irissoft/inParm8.txt|e07b7c1554b5489d0f1e670d6dd6a17192125164
-odm/etc/inparm/irissoft/inParm9.txt:odm/19821/etc/inparm/irissoft/inParm9.txt|6b41dafb6d1f6c69cb3e632ab2144507af98d992
-odm/etc/inparm/irissoft/mcfCheck.txt:odm/19821/etc/inparm/irissoft/mcfCheck.txt|21fa00edb330b6fb85cbc90a5096a1a784548dfb
-odm/etc/irissoft.fw:odm/19821/etc/irissoft.fw|be0d62ecf311e0dc4a2bd70c931ee1774b8a769b
+# Iris (OP8) - from IN2025_11.F.63
+odm/etc/inparm/irissoft/inParm1.txt:odm/19821/etc/inparm/irissoft/inParm1.txt|173205fd3589961a264f1c1eda7e9bd619603b01
+odm/etc/inparm/irissoft/inParm10.txt:odm/19821/etc/inparm/irissoft/inParm10.txt|84801d6e89452649d39ed6f7158df7accb76fc4a
+odm/etc/inparm/irissoft/inParm11.txt:odm/19821/etc/inparm/irissoft/inParm11.txt|88c64706cf77a2d21c49580e9518c6fc12e1ed22
+odm/etc/inparm/irissoft/inParm12.txt:odm/19821/etc/inparm/irissoft/inParm12.txt|cc9ee60b061acc869fa8ca5bed9113e6324483df
+odm/etc/inparm/irissoft/inParm13.txt:odm/19821/etc/inparm/irissoft/inParm13.txt|3bef68df83db1f8ec3875f180df27f8ee57d96ee
+odm/etc/inparm/irissoft/inParm14.txt:odm/19821/etc/inparm/irissoft/inParm14.txt|df529410c8034019a6ce67fec6710bc11332ce07
+odm/etc/inparm/irissoft/inParm15.txt:odm/19821/etc/inparm/irissoft/inParm15.txt|21d5e19cfb05f36f44b1a8370edefb2de7dbb4bb
+odm/etc/inparm/irissoft/inParm16.txt:odm/19821/etc/inparm/irissoft/inParm16.txt|f2cabbb4286bb417e10ece7893ef085b59b7bd0b
+odm/etc/inparm/irissoft/inParm17.txt:odm/19821/etc/inparm/irissoft/inParm17.txt|3cc9879ee11fa18ad58af821e1940a48ce76000e
+odm/etc/inparm/irissoft/inParm18.txt:odm/19821/etc/inparm/irissoft/inParm18.txt|d9d0bd00f6c8e3675bbf70f0f85d35968536c057
+odm/etc/inparm/irissoft/inParm2.txt:odm/19821/etc/inparm/irissoft/inParm2.txt|e01e40aca15fcb83530a9dbabe75dff3c75607a6
+odm/etc/inparm/irissoft/inParm3.txt:odm/19821/etc/inparm/irissoft/inParm3.txt|3fa0c499c236ed74ea96008e0c9d801ad66a1e8d
+odm/etc/inparm/irissoft/inParm4.txt:odm/19821/etc/inparm/irissoft/inParm4.txt|77c258cb59bdac2fd313a31ff7be60d879a5ad22
+odm/etc/inparm/irissoft/inParm5.txt:odm/19821/etc/inparm/irissoft/inParm5.txt|3454ca331c83260746cef52318de842fca4cf6dd
+odm/etc/inparm/irissoft/inParm6.txt:odm/19821/etc/inparm/irissoft/inParm6.txt|b98a1aa8ad981532b9ff5e44e68122af6ba484ea
+odm/etc/inparm/irissoft/inParm7.txt:odm/19821/etc/inparm/irissoft/inParm7.txt|55364d11fc92cf206f56bef795a668c2813c9aac
+odm/etc/inparm/irissoft/inParm8.txt:odm/19821/etc/inparm/irissoft/inParm8.txt|65619613cd7b965feccbf088a9cef5a915881010
+odm/etc/inparm/irissoft/inParm9.txt:odm/19821/etc/inparm/irissoft/inParm9.txt|1f75f714c0f730111ff45be7e4f2be873df06ebe
+odm/etc/inparm/irissoft/mcfCheck.txt:odm/19821/etc/inparm/irissoft/mcfCheck.txt|6a08bb530c891b7393c614d23ee95152da3e7ed8
+odm/etc/irissoft.fw:odm/19821/etc/irissoft.fw|ccfb5902e0838690bef7a86b39b82ff17bb2728d
 
-# Iris (OP8P) - from IN2025_11.F.15
+# Iris (OP8P) - from IN2025_11.F.63
 odm/etc/inparm/iris5/inParm1.txt:odm/19811/etc/inparm/iris5/inParm1.txt|6c6accc9812dbc7860882aeb075ba0aa7c668d5b
 odm/etc/inparm/iris5/inParm10.txt:odm/19811/etc/inparm/iris5/inParm10.txt|bd8e664301c4578629cc8b3869f35e90f5ac532e
 odm/etc/inparm/iris5/inParm11.txt:odm/19811/etc/inparm/iris5/inParm11.txt|2c4e7aeda472c19a9bad3785a527936a833eab43
@@ -1136,35 +1136,35 @@ odm/etc/inparm/iris5/inParm6.txt:odm/19811/etc/inparm/iris5/inParm6.txt|a11e6ef6
 odm/etc/inparm/iris5/inParm7.txt:odm/19811/etc/inparm/iris5/inParm7.txt|eac8f7399f692f5d471150d270e197f0b6127020
 odm/etc/inparm/iris5/inParm8.txt:odm/19811/etc/inparm/iris5/inParm8.txt|691fb5dcea4d1257afd52f14e8385501b7c13e6b
 odm/etc/inparm/iris5/inParm9.txt:odm/19811/etc/inparm/iris5/inParm9.txt|65e3a4b41a2798654078101bdb56a112be50447e
-odm/etc/inparm/irissoft/inParm1.txt:odm/19811/etc/inparm/irissoft/inParm1.txt|c30cf4b9713cd50599cc1a2946f51ede93b926e7
-odm/etc/inparm/irissoft/inParm10.txt:odm/19811/etc/inparm/irissoft/inParm10.txt|198d922a7d08cbdfcfdd979ec0c0344b383cc734
-odm/etc/inparm/irissoft/inParm11.txt:odm/19811/etc/inparm/irissoft/inParm11.txt|4579e1db153aada96489f60569c1d7559f13905c
-odm/etc/inparm/irissoft/inParm12.txt:odm/19811/etc/inparm/irissoft/inParm12.txt|26c05f777e84a3bbf2331644ded074d816681266
-odm/etc/inparm/irissoft/inParm13.txt:odm/19811/etc/inparm/irissoft/inParm13.txt|90854a0909377e020a20be186f222ae812f526d7
-odm/etc/inparm/irissoft/inParm14.txt:odm/19811/etc/inparm/irissoft/inParm14.txt|762423aa92665ac0143e75405bcc3b4f06ba8b4c
-odm/etc/inparm/irissoft/inParm15.txt:odm/19811/etc/inparm/irissoft/inParm15.txt|bf7d160f20455eb4fe8df9b9f51eb4a6226d96ca
-odm/etc/inparm/irissoft/inParm16.txt:odm/19811/etc/inparm/irissoft/inParm16.txt|fa103e8f3094e52083660ac41762870e7d072861
-odm/etc/inparm/irissoft/inParm17.txt:odm/19811/etc/inparm/irissoft/inParm17.txt|0edd1362b84e0613676d4d4ceee3a0267721d6d8
-odm/etc/inparm/irissoft/inParm18.txt:odm/19811/etc/inparm/irissoft/inParm18.txt|a4f02206543350dd1fa7412be6dbf850dd23e65b
-odm/etc/inparm/irissoft/inParm2.txt:odm/19811/etc/inparm/irissoft/inParm2.txt|fee3218b0fd3f7d770a6e010128fb64a08c18178
-odm/etc/inparm/irissoft/inParm3.txt:odm/19811/etc/inparm/irissoft/inParm3.txt|3b21b269edeef252f2910b9d2cb5b29b5e64ca4e
-odm/etc/inparm/irissoft/inParm4.txt:odm/19811/etc/inparm/irissoft/inParm4.txt|123a5fbb0dca72d421c75a488faa47ec71edf9ce
-odm/etc/inparm/irissoft/inParm5.txt:odm/19811/etc/inparm/irissoft/inParm5.txt|e788ff7ac6794ab18671a39ac2ec28851f06806c
-odm/etc/inparm/irissoft/inParm6.txt:odm/19811/etc/inparm/irissoft/inParm6.txt|c0b94c9cf2a824869d1b4002b872161ee738a08d
-odm/etc/inparm/irissoft/inParm7.txt:odm/19811/etc/inparm/irissoft/inParm7.txt|61ccf62395b58e96e18560d17c64b0ef41ee96e1
-odm/etc/inparm/irissoft/inParm8.txt:odm/19811/etc/inparm/irissoft/inParm8.txt|e07b7c1554b5489d0f1e670d6dd6a17192125164
-odm/etc/inparm/irissoft/inParm9.txt:odm/19811/etc/inparm/irissoft/inParm9.txt|6b41dafb6d1f6c69cb3e632ab2144507af98d992
-odm/etc/inparm/irissoft/mcfCheck.txt:odm/19811/etc/inparm/irissoft/mcfCheck.txt|21fa00edb330b6fb85cbc90a5096a1a784548dfb
-odm/etc/irissoft.fw:odm/19811/etc/irissoft.fw|be0d62ecf311e0dc4a2bd70c931ee1774b8a769b
+odm/etc/inparm/irissoft/inParm1.txt:odm/19811/etc/inparm/irissoft/inParm1.txt|173205fd3589961a264f1c1eda7e9bd619603b01
+odm/etc/inparm/irissoft/inParm10.txt:odm/19811/etc/inparm/irissoft/inParm10.txt|84801d6e89452649d39ed6f7158df7accb76fc4a
+odm/etc/inparm/irissoft/inParm11.txt:odm/19811/etc/inparm/irissoft/inParm11.txt|88c64706cf77a2d21c49580e9518c6fc12e1ed22
+odm/etc/inparm/irissoft/inParm12.txt:odm/19811/etc/inparm/irissoft/inParm12.txt|cc9ee60b061acc869fa8ca5bed9113e6324483df
+odm/etc/inparm/irissoft/inParm13.txt:odm/19811/etc/inparm/irissoft/inParm13.txt|3bef68df83db1f8ec3875f180df27f8ee57d96ee
+odm/etc/inparm/irissoft/inParm14.txt:odm/19811/etc/inparm/irissoft/inParm14.txt|df529410c8034019a6ce67fec6710bc11332ce07
+odm/etc/inparm/irissoft/inParm15.txt:odm/19811/etc/inparm/irissoft/inParm15.txt|21d5e19cfb05f36f44b1a8370edefb2de7dbb4bb
+odm/etc/inparm/irissoft/inParm16.txt:odm/19811/etc/inparm/irissoft/inParm16.txt|f2cabbb4286bb417e10ece7893ef085b59b7bd0b
+odm/etc/inparm/irissoft/inParm17.txt:odm/19811/etc/inparm/irissoft/inParm17.txt|3cc9879ee11fa18ad58af821e1940a48ce76000e
+odm/etc/inparm/irissoft/inParm18.txt:odm/19811/etc/inparm/irissoft/inParm18.txt|d9d0bd00f6c8e3675bbf70f0f85d35968536c057
+odm/etc/inparm/irissoft/inParm2.txt:odm/19811/etc/inparm/irissoft/inParm2.txt|e01e40aca15fcb83530a9dbabe75dff3c75607a6
+odm/etc/inparm/irissoft/inParm3.txt:odm/19811/etc/inparm/irissoft/inParm3.txt|3fa0c499c236ed74ea96008e0c9d801ad66a1e8d
+odm/etc/inparm/irissoft/inParm4.txt:odm/19811/etc/inparm/irissoft/inParm4.txt|77c258cb59bdac2fd313a31ff7be60d879a5ad22
+odm/etc/inparm/irissoft/inParm5.txt:odm/19811/etc/inparm/irissoft/inParm5.txt|3454ca331c83260746cef52318de842fca4cf6dd
+odm/etc/inparm/irissoft/inParm6.txt:odm/19811/etc/inparm/irissoft/inParm6.txt|b98a1aa8ad981532b9ff5e44e68122af6ba484ea
+odm/etc/inparm/irissoft/inParm7.txt:odm/19811/etc/inparm/irissoft/inParm7.txt|55364d11fc92cf206f56bef795a668c2813c9aac
+odm/etc/inparm/irissoft/inParm8.txt:odm/19811/etc/inparm/irissoft/inParm8.txt|65619613cd7b965feccbf088a9cef5a915881010
+odm/etc/inparm/irissoft/inParm9.txt:odm/19811/etc/inparm/irissoft/inParm9.txt|1f75f714c0f730111ff45be7e4f2be873df06ebe
+odm/etc/inparm/irissoft/mcfCheck.txt:odm/19811/etc/inparm/irissoft/mcfCheck.txt|6a08bb530c891b7393c614d23ee95152da3e7ed8
+odm/etc/irissoft.fw:odm/19811/etc/irissoft.fw|ccfb5902e0838690bef7a86b39b82ff17bb2728d
 odm/vendor/firmware/iris5.fw|e407108896c8617f03b44ad95ad7b2b8a17aa417
 odm/vendor/firmware/iris5_ccf1.fw|3df30aeb4a2f4590987abc15605b27b95724bbff
 odm/vendor/firmware/iris5_ccf2.fw|f656f6229ef53d8cc31d67fc1ac0fc0b106b8abf
 
-# Iris (OP9R) - from LE2101_11_F.16
-odm/etc/inparm/irissoft/inParm.lst|e3fe241272e1f4f4c0510bb907d9e9a48085f877
-odm/etc/inparm/irissoft/inParm10.txt|198d922a7d08cbdfcfdd979ec0c0344b383cc734
-odm/etc/inparm/irissoft/inParm11.txt|4579e1db153aada96489f60569c1d7559f13905c
-odm/etc/inparm/irissoft/inParm12.txt|26c05f777e84a3bbf2331644ded074d816681266
+# Iris (OP9R) - from LE2101_11_F.22
+odm/etc/inparm/irissoft/inParm.lst|b58c7024a95a1ca518f1950936aa913aa3d60e55
+odm/etc/inparm/irissoft/inParm10.txt|84801d6e89452649d39ed6f7158df7accb76fc4a
+odm/etc/inparm/irissoft/inParm11.txt|88c64706cf77a2d21c49580e9518c6fc12e1ed22
+odm/etc/inparm/irissoft/inParm12.txt|cc9ee60b061acc869fa8ca5bed9113e6324483df
 odm/etc/inparm/irissoft/inParm14_a.txt|c4e6d8d1299d899e8142a2ea953006a7bb6b71a4
 odm/etc/inparm/irissoft/inParm14_b.txt|bc109002185a19c6cffabe703eb288f0e2e42d78
 odm/etc/inparm/irissoft/inParm14_c.txt|47b7d4167ddfc7a46094a6fcc8c4987821194f72
@@ -1198,8 +1198,8 @@ odm/etc/inparm/irissoft/inParm6_up.txt|0d1948cfa3394e2de7d012c5b3f7f6cb350f667f
 odm/etc/inparm/irissoft/inParm8_a.txt|1bf740e4aa306460af87df5367ca1270467ddc4b
 odm/etc/inparm/irissoft/inParm8_b.txt|c889524d438ca8e91450ba0b3903fd3513fabbe4
 odm/etc/inparm/irissoft/inParm8_c.txt|5c62eafba36428f3bce04ce8da7c589925f34746
-odm/etc/inparm/irissoft/mcfCheck.txt|21fa00edb330b6fb85cbc90a5096a1a784548dfb
-odm/etc/irissoft.fw|be0d62ecf311e0dc4a2bd70c931ee1774b8a769b
+odm/etc/inparm/irissoft/mcfCheck.txt|6a08bb530c891b7393c614d23ee95152da3e7ed8
+odm/etc/irissoft.fw|ccfb5902e0838690bef7a86b39b82ff17bb2728d
 
 # IRQ balance
 vendor/bin/msm_irqbalance
