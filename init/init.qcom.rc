@@ -213,6 +213,10 @@ on boot
     chown system system /sys/class/sensors/apds9930-light/poll_delay
     chown system system /sys/class/sensors/apds9930-proximity/enable
     chown system system /sys/class/sensors/apds9930-proximity/poll_delay
+    
+     # DT2W
+    chown system system /proc/touchpanel/aosp_double_tap_enable
+    write /proc/touchpanel/aosp_double_tap_enable 1
 
     # Create directory used for display
     # for backward compatibility
